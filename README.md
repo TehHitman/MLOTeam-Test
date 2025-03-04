@@ -8,6 +8,7 @@ This is a basic test to see if you are able to create a shell for a house we pro
 - We require to be able to see through the windows from the inteiror out to the extiror.
 - We require the shell to be one big room.
 - We require the portals to be setup correctly.
+- We require LODs to be setup
 
 **Assets** 
 - The house we would like you to edit is **lf_house_04_.ydr**
