@@ -10,6 +10,10 @@ This is a basic test to see if you are able to create a shell for a house we pro
 - We require the portals to be setup correctly.
 - We require LODs to be setup
 
+**Optional**
+- Add timecycles
+- Add sound proofing
+
 **Assets** 
 - The house we would like you to edit is **lf_house_04_.ydr**
 - please follow the requiremnts of what we would like to see be done with this model.
